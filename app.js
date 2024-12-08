@@ -216,5 +216,5 @@ if (l > 0) {
   console.log("Radious (R):" + R);
   console.log("Yuzasi (S):" + S);
 } else {
-  console.log("Notog'ri Aylananing uzunligi musbat bo'lishi kerak.");
+  console.log("Notog'ri: Aylananing uzunligi musbat bo'lishi kerak.");
 }
